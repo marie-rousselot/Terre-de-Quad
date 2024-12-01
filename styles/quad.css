@@ -1,0 +1,9 @@
+.logo {
+  max-height: 80px;
+  padding: 5px;
+  display: block;
+  width: auto;
+  height: auto;
+  image-rendering: auto;
+  position: relative;
+}
