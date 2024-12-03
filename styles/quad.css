@@ -142,8 +142,8 @@ nav li.active a {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
-    url("../images/magical-lapland-6.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)),
+    url("../images/accueil.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: #ffffff;
@@ -169,8 +169,8 @@ footer .email-link:hover {
 
 footer .social-links a {
   margin: 0 20px;
-  color: var(--branding-color);
-  background: var(--secondary-color);
+  color: #ffffff;
+  background: #0C66FF;
   padding: 10px 14px;
   border-radius: 50%;
   font-size: 18px;
@@ -188,8 +188,8 @@ footer .contact-box p {
 }
 
 footer .social-links a:hover {
-  color: #ffffff;
-  background: var(--branding-color);
+  color: #0C66FF;
+  background: #E2E5E9;
 }
 
 @media (max-width: 900px) {
